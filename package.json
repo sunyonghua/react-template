@@ -1,0 +1,23 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "react-webpack template js jsx ts tsx",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "keywords": [
+    "react-webpack",
+    "template",
+    "js",
+    "jsx",
+    "ts",
+    "tsx"
+  ],
+  "author": "sunyonghua",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
