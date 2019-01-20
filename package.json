@@ -1,7 +1,7 @@
 {
-  "name": "react-template",
+  "name": "{{ projectName }}",
   "version": "1.0.0",
-  "description": "react-webpack template js jsx ts tsx",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "serve": "NODE_ENV=development webpack-dev-server",
@@ -15,7 +15,7 @@
     "ts",
     "tsx"
   ],
-  "author": "sunyonghua",
+  "author": "{{author}}",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.2.2",
